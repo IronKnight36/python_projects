@@ -11,7 +11,7 @@ city = input('What city do you live in? ')
 enjoy = input('What activities do you enjoy? ')
 
 #Create Output text
-output = '''Hi! I am {}, and I'm {} years old. I live in {}, and enjoy {}'''
+output = 'Hi! I am {}, and I am {} years old. I live in {}, and enjoy {}'
 output.format(name, age, city, enjoy)
 #Print Output to screen
 print(output)
