@@ -1,5 +1,3 @@
-"hello"
+hello = 'Hello World!'
 
-name = "Mathieu"
-
-print(type(name))
+print(hello)
